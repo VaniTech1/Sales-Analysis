@@ -3,6 +3,14 @@
 This project is a dynamic and interactive **Sales Dashboard** built to visualize and analyze sales data from a supermarket shop. It provides comprehensive insights into total sales, profits, product performance, and category-wise sales using visual storytelling.
 
 ---
+## 🔧 Tech Stack
+
+- **Tools Used**: Microsoft Power BI, Microsoft Excel  
+- **Project Type**: Data Analysis and Visualization  
+- **Goal**: Analyze and visualize sales data to uncover revenue patterns and performance trends  
+- **Highlights**: Interactive dashboard with slicers, dynamic visuals, and KPI indicators
+
+---
 
 ## 📊 Project Highlights
 
