@@ -38,8 +38,8 @@ This project is a dynamic and interactive **Sales Dashboard** built to visualize
 | File Name                     | Description                                      |
 |------------------------------|--------------------------------------------------|
 | `Sales file.xlsx`            | Raw dataset used for dashboard creation         |
-| `Power BI Sales Dashboard.png`  | Image of the Power BI dashboard                       |
-| 'Po
+| `Power BI Sales Dashboard.png` | Image of the Power BI dashboard               |
+| `Sales Dashboard.pbix`        |The PowerBI project File                        |
 | `README.md`                  | Documentation for this project                  |
 
 ---
